@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 06A5-7A93
+
+ Directory of C:\Users\chandrakanth_kini\Desktop\MyFirstGitPush
+
+27-02-2022  14:08    <DIR>          .
+27-02-2022  14:04    <DIR>          ..
+27-02-2022  14:08                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  453,054,910,464 bytes free
